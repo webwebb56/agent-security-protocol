@@ -1,0 +1,11 @@
+# Never commit secrets
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local/private notes
+private/
+.DS_Store
+.vscode/
